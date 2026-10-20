@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;%F0%9F%93%83+Learning+JavaScript;%F0%9F%93%B1+Learning+Android+Studio;%F0%9F%94%92+Cybersecurity+aspirations;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Ethical+Hacking;%F0%9F%8E%AE+Playing+Game" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hello,+I'm+Hafz;Build+Web+and+Application;%F0%9F%93%83+Learning+JavaScript;%F0%9F%93%B1+Learning+Android+Studio;%F0%9F%94%92+Cybersecurity+aspirations;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Ethical+Hacking;%F0%9F%8E%AE+Playing+Game" alt="Typing SVG" />
 </div>
 
 ## 🛠️ Tech Stack
