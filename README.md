@@ -9,7 +9,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=qanziz47-coder&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=qanziz47-coder&background=000000&border=00FFFF&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=00FFFF)
 
 ## 🔗 Hubungi Saya
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/username_kamu)
