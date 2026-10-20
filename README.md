@@ -11,9 +11,9 @@ Saya tertarik dengan pengelolaan **backend**, **ethical hacking**, dan ingin tah
 Di waktu luang, saya gemar bermain game terutama **Minecraft**. Saya juga tertarik membuat mod dan memodifikasi mod Minecraft. Saya menikmati ngoding walaupun lumayan susah, tapi saya tetap berusaha belajar dan memahami!
 
 <br>
+<br?
 
 <div align="center">
-  <h2>🔗 Hubungi Saya</h2>
   <a href="https://www.instagram.com/fajri_hafz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@hfz.dv"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="https://youtube.com/@clouds_dakwah"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
@@ -22,10 +22,8 @@ Di waktu luang, saya gemar bermain game terutama **Minecraft**. Saya juga tertar
 
 
 <br>
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=qanziz47-coder&background=000000&ring=00FFFF&fire=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=00FFFF" alt="GitHub Streak" />
 </div>
-
-<br>
-
