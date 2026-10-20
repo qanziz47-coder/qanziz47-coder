@@ -1,9 +1,10 @@
-# 👋 Halo, saya [Nama Kamu]!
-
-Saya pelajar SMK jurusan RPL yang suka ngoding dan eksperimen project.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+Profil+Saya;Web+%26+IoT+Developer;Siswa+SMK+RPL+1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Welcome+Datang+di+Profil+Saya;Web+%26+IoT+Developer;Siswa+SMK+RPL+1" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=10B981&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript;PHP+%7C+MySQL;Kotlin+%7C+Android+Studio;ESP32+%7C+Arduino" alt="Skills" />
 </div>
 
 ## 🛠️ Tech Stack
