@@ -32,6 +32,11 @@ Di waktu luang, saya gemar bermain game terutama **Minecraft**. Saya juga tertar
 </div>
 <br>
 <br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+Learning,+Keep+Coding!;Stay+Curious,+Stay+Secure!;Never+Stop+Exploring!;See+you+in+the+next+project!" alt="Closing Typing SVG" />
+</div>
+<br>
 <br>
 <div align="center">
 <p class="color:00FFFF;">🎯 semoga bisa mendapatkan apa yang aku inginkan!!! 🎯</p>
