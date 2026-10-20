@@ -27,7 +27,9 @@ Di waktu luang, saya gemar bermain game terutama **Minecraft**. Saya juga tertar
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=qanziz47-coder&background=000000&ring=00FFFF&fire=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=00FFFF" alt="GitHub Streak" />
 </div>
-
+<br>
+<br>
+<br>
 <div align="center">
-<p>semoga bisa mendapatkan apa yang aku inginkan!!!</p>
+<p>🎯 semoga bisa mendapatkan apa yang aku inginkan!!! 🎯</p>
 </div>
