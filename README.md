@@ -15,12 +15,10 @@ Di waktu luang, saya gemar bermain game terutama **Minecraft**. Saya juga tertar
 <br>
 
 <div align="center">
-  ====
   <a href="https://www.instagram.com/fajri_hafz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@hfz.dv"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="https://youtube.com/@clouds_dakwah"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://discord.gg/CGzTDybnk"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  ====
 </div>
 
 
@@ -34,7 +32,7 @@ Di waktu luang, saya gemar bermain game terutama **Minecraft**. Saya juga tertar
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+Learning,+Keep+Coding!;Stay+Curious,+Stay+Secure!;Never+Stop+Exploring!;See+you+in+the+next+project!" alt="Closing Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+Learning,+Keep+Coding!;Stay+Curious,+Stay+Secure!;Never+Stop+Exploring!;See+you+in+the+next+project!" alt="Closing Typing SVG" />
 </div>
 <br>
 <br>
