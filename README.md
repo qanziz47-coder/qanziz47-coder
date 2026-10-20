@@ -2,6 +2,10 @@
 
 Saya pelajar SMK jurusan RPL yang suka ngoding dan eksperimen project.
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+Profil+Saya;Web+%26+IoT+Developer;Siswa+SMK+RPL+1" alt="Typing SVG" />
+</div>
+
 ## 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
