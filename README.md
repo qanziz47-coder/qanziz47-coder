@@ -12,11 +12,14 @@ Di waktu luang, saya gemar bermain game terutama **Minecraft**. Saya juga tertar
 
 <br>
 
-## 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<div align="center">
+  <h2>🔗 Hubungi Saya</h2>
+  <a href="https://www.instagram.com/fajri_hafz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@hfz.dv"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://youtube.com/@clouds_dakwah"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://discord.gg/CGzTDybnk"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</div>
+
 
 <br>
 
@@ -26,11 +29,3 @@ Di waktu luang, saya gemar bermain game terutama **Minecraft**. Saya juga tertar
 
 <br>
 
-<div align="center">
-  <h2>🔗 Hubungi Saya</h2>
-  <a href="https://www.instagram.com/fajri_hafz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@hfz.dv"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <br>
-  <a href="https://youtube.com/@clouds_dakwah"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://discord.gg/CGzTDybnk"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</div>
