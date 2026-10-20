@@ -31,5 +31,5 @@ Di waktu luang, saya gemar bermain game terutama **Minecraft**. Saya juga tertar
 <br>
 <br>
 <div align="center">
-<p>🎯 semoga bisa mendapatkan apa yang aku inginkan!!! 🎯</p>
+<p class="color:00FFFF;">🎯 semoga bisa mendapatkan apa yang aku inginkan!!! 🎯</p>
 </div>
