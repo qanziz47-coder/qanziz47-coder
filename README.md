@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hello,+I'm+Hafz;🚀+Build+Web+and+Application;📜+Learning+JavaScript;📱+Learning+Android+Studio;🔒+Cybersecurity+aspirations;👨‍💻+Ethical+Hacking;🎮+Playing+Game" alt="Typing SVG" />
 </div>
-
+<br>
+<br>
 <br>
 
 Halo 👋 semuanya! Saya adalah pelajar SMK jurusan RPL (Rekayasa Perangkat Lunak) yang sedang belajar pemrograman dan pengembangan software. Selain itu, saya juga belajar hardware untuk meningkatkan skill saya di bidang komputer. 
