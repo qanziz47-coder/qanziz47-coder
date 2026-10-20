@@ -11,7 +11,7 @@ Saya tertarik dengan pengelolaan **backend**, **ethical hacking**, dan ingin tah
 Di waktu luang, saya gemar bermain game terutama **Minecraft**. Saya juga tertarik membuat mod dan memodifikasi mod Minecraft. Saya menikmati ngoding walaupun lumayan susah, tapi saya tetap berusaha belajar dan memahami!
 
 <br>
-<br?
+<br>
 
 <div align="center">
   <a href="https://www.instagram.com/fajri_hafz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
